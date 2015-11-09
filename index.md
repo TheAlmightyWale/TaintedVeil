@@ -3,7 +3,7 @@
 ## Factsheet
 
 **Developer:**  
-TaintedVeil
+Team Titans
 
 **Founding date:**  
 March, 2015
@@ -22,13 +22,6 @@ March, 2015
 **Releases:**  
 [TaintedVeil][example_project]
 
-**Address:**  
-Line 1  
-Line 2  
-Line 3
-
-**Phone:**  
-+00 (1) 22 33 44 55
 
 ## Description
 
@@ -75,21 +68,6 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 [![logo](assets/images/logo.png)](assets/images/logo.png "Logo")
 [![icon](assets/images/icon.png)](assets/images/icon.png "Icon")
 
-## Awards & Recognition
-
-> * "Winner, XX awards." - *game name, December 13, 2013*
-> * "Nominee, YY awards." - *game name, December 13, 2013*
-
-## Selected Articles
-
-> * "Quote quote quote."  
--- *Person Name, [Website](http://www.website.com/)*
-
-
-> * "More quotes."  
--- *Person name, [Site](http://geocities.blog.com/)*
-
-
 ## Additional Links
 
 **Company Link #1**  
@@ -130,7 +108,7 @@ Another of these. See [here](https://link)
 [twitter.com/companyname][twitter]
 
 ** Facebook**  
-[facebook.com/companyname][facebook]
+[facebook.com/TeamTitansTaintedVeil][facebook]
 
 **Web**  
 [companydomain.com][homepage]
