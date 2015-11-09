@@ -108,7 +108,7 @@ Another of these. See [here](https://link)
 [twitter.com/companyname][twitter]
 
 ** Facebook**  
-[facebook.com/TeamTitansTaintedVeil][https://www.facebook.com/TeamTitansTaintedVeil]
+[facebook.com/TeamTitansTaintedVeil][facebook]
 
 **Web**  
 [companydomain.com][homepage]
