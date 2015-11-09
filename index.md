@@ -16,12 +16,10 @@ March, 2015
 
 **Social:**  
 [twitter.com/companyname][twitter]  
-[facebook.com/companyname][facebook]  
-[Skype](callto:companyskypename)
+[facebook.com/TeamTitansTaintedVeil][facebook]  
 
 **Releases:**  
 [TaintedVeil][example_project]
-
 
 ## Description
 
