@@ -6,7 +6,7 @@
 Company Name
 
 **Founding date:**  
-January 1, 2015
+March, 2015
 
 **Website:**  
 [companydomain.com][homepage]
@@ -20,7 +20,7 @@ January 1, 2015
 [Skype](callto:companyskypename)
 
 **Releases:**  
-[exampleproject][example_project]
+[TaintedVeil][example_project]
 
 **Address:**  
 Line 1  
@@ -46,7 +46,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Projects
 
-* [exampleproject][example_project]
+* [TaintedVeil][example_project]
 
 ## Videos
 
@@ -98,10 +98,10 @@ Link to your company, or some affiliate. Located [here](https://link)
 **Company Link #2**  
 Another of these. See [here](https://link)
 
-## Team & Repeating Collaborator
+## Team
 
 **Probably the founder's name goes here**  
-[Founder](https://link)
+[Founder]
 
 **Another person's name**  
 [developer maybe](https://link)
