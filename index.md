@@ -102,10 +102,7 @@ Another of these. See [here](https://link)
 ## Contact
 
 **Inquiries**  
-[press-contact@company.com][contact]
-
-**Twitter**  
-[twitter.com/companyname][twitter]
+[TaintedVeil Support][contact]
 
 ** Facebook**  
 [facebook.com/TeamTitansTaintedVeil][facebook]
@@ -118,7 +115,7 @@ Another of these. See [here](https://link)
 
 [homepage]: http://companydomain.com "Company Name"
 
-[contact]: mailto:press-contact@company.com
+[contact]: mailto:TaintedVeil@gmail.com
 
 <!--- Social -->
 
