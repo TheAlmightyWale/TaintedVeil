@@ -100,17 +100,26 @@ Another of these. See [here](https://link)
 
 ## Team
 
-**Probably the founder's name goes here**  
-[Founder]
+**Barak Abitbol**  
+[Programmer]
 
-**Another person's name**  
-[developer maybe](https://link)
+**Jarryd Peterson**  
+[Programmer]
 
-**Another person, show em if you've got em**  
-[artist, who knows](https://link)
+**Mark Southcombe**  
+[Programmer]
 
-**A fourth person**  
-[music, sound?](https://link)
+**Ben Bakker**  
+[Artist]
+
+**Callum Wright**  
+[Artist]
+
+**Jaidan Cheah**  
+[Artist]
+
+**Michael Chan**  
+[Artist]
 
 ## Contact
 
