@@ -3,7 +3,7 @@
 ## Factsheet
 
 **Developer:**  
-Company Name
+TaintedVeil
 
 **Founding date:**  
 March, 2015
