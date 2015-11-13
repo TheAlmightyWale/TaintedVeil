@@ -39,11 +39,6 @@ We have a trailer and this is it. [And this is what we called the link](https://
 
 <iframe src="//www.youtube.com/embed/WB0yAm6iXEw" frameborder="0" allowfullscreen></iframe>
 
-<br>
-
-This is some music from our games! [Yeah, you like it I think](http://www.youtube.com/watch?v=hxQAUADFCzw "Motohiro Kawashima live")
-<iframe src="//www.youtube.com/embed/hxQAUADFCzw" frameborder="0" allowfullscreen></iframe>
-
 ## Images
 
 download all screenshots & photos as ** [.zip (63 KB)](assets/images/images.zip "Images zip") **
