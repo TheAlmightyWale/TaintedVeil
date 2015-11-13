@@ -20,7 +20,10 @@ March, 2015
 21st November 2015
 
 **Download:**
--Coming Soon
+Coming Soon
+
+<br />
+<br />
 
 ## Team Description
 Team Titans is a team of 7 students that attend Media Design School in New Zealand. We created the game Tainted Veil as a part of a year long project, starting with 3 prototypes which we then developed into a Vertical Slice preview of the game, then to Alpha stage and finally onto Gold stage.
@@ -30,17 +33,13 @@ Team Titans is a team of 7 students that attend Media Design School in New Zeala
 “A mysterious poison has tainted the land, it’s spreading to your hometown, you must go and cleanse the area before it’s too late!”
 Explore the vast land of Tainted Veil, find the 4 mystical gems that will give you powers beyond your wildest dream! Use these powers to explore the world and take down enemies obstructing your path.
 
-
-<br />
-<br />
-
 ### Key Features
 
-*Explore - Delve into a gorgeous world and navigate through four unique areas: Forestlands, Swamp, Caverns and Canyons
-*Master The Elements - Use the power of Air, Fire, Ice and Earth to traverse the vast environment and fight enemies
-*Fight Various Enemies - Engage in unique combat encounters with different kinds of enemies ranging from big brutes to crafty casters
-*Collect Items - You must find the gems that contain abilities for you yourself along with enough mysterious orbs cleanse the world
-*Platforming Puzzles - Jump on trickey rocks and other platforms to maneuver around the vast world
++Explore - Delve into a gorgeous world and navigate through four unique areas: Forestlands, Swamp, Caverns and Canyons
++Master The Elements - Use the power of Air, Fire, Ice and Earth to traverse the vast environment and fight enemies
++Fight Various Enemies - Engage in unique combat encounters with different kinds of enemies ranging from big brutes to crafty casters
++Collect Items - You must find the gems that contain abilities for you yourself along with enough mysterious orbs cleanse the world
++Platforming Puzzles - Jump on trickey rocks and other platforms to maneuver around the vast world
 
 
 ## Videos
