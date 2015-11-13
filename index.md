@@ -13,7 +13,8 @@ March, 2015
 
 **Social:**  
 [twitter.com/TaintedVeil][twitter]  
-[facebook.com/TeamTitansTaintedVeil][facebook]  
+[facebook.com/TeamTitansTaintedVeil][facebook]
+[Devlopment Blog][Devlog]
 
 ## Description
 
@@ -28,10 +29,11 @@ Explore the vast land of Tainted Veil, find the 4 mystical gems that will give y
 *Collect Items - You must find the gems that contain abilities for you yourself along with enough mysterious orbs cleanse the world
 *Platforming Puzzles - Jump on trickey rocks and other platforms to maneuver around the vast world
 
+### Release Date
+21st November 2015
 
-## Projects
+### Download
 
-* [TaintedVeil][example_project]
 
 ## Videos
 
@@ -96,4 +98,5 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 
 [twitter]: https://twitter.com/tainted_veil
 [facebook]: https://www.facebook.com/TeamTitansTaintedVeil
+[Devlog]: http://forums.tigsource.com/index.php?topic=49552.msg1165640#msg1165640
 
