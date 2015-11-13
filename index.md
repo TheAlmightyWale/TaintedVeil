@@ -24,6 +24,8 @@ Team Titans is a team of 7 students that attend Media Design School in New Zeala
 “A mysterious poison has tainted the land, it’s spreading to your hometown, you must go and cleanse the area before it’s too late!”
 Explore the vast land of Tainted Veil, find the 4 mystical gems that will give you powers beyond your wildest dream! Use these powers to explore the world and take down enemies obstructing your path.
 
+
+
 ### Key Features
 
 *Explore - Delve into a gorgeous world and navigate through four unique areas: Forestlands, Swamp, Caverns and Canyons
