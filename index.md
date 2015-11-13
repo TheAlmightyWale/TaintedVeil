@@ -39,7 +39,7 @@ Explore the vast land of Tainted Veil, find the 4 mystical gems that will give y
 21st November 2015
 
 ### Download
-
+-Coming Soon
 
 ## Videos
 
