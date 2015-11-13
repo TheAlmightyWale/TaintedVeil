@@ -16,7 +16,10 @@ March, 2015
 [facebook.com/TeamTitansTaintedVeil][facebook]
 [Devlopment Blog][Devlog]
 
-## Description
+## Team Description
+Team Titans is a team of 7 students that attend Media Design School in New Zealand. We created the game Tainted Veil as a part of a year long project, starting with 3 prototypes which we then developed into a Vertical Slice preview of the game, then to Alpha stage and finally onto Gold stage.
+
+## Game Description
 
 “A mysterious poison has tainted the land, it’s spreading to your hometown, you must go and cleanse the area before it’s too late!”
 Explore the vast land of Tainted Veil, find the 4 mystical gems that will give you powers beyond your wildest dream! Use these powers to explore the world and take down enemies obstructing your path.
