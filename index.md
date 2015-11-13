@@ -15,7 +15,7 @@ March, 2015
 [press-contact@company.com][contact]
 
 **Social:**  
-[twitter.com/companyname][twitter]  
+[twitter.com/TaintedVeil][twitter]  
 [facebook.com/TeamTitansTaintedVeil][facebook]  
 
 **Releases:**  
