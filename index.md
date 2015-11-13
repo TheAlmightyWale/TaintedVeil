@@ -117,7 +117,7 @@ Another of these. See [here](https://link)
 
 <!--- Social -->
 
-[twitter]: https://twitter.com/companyname
+[twitter]: https://twitter.com/tainted_veil
 [facebook]: https://www.facebook.com/TeamTitansTaintedVeil
 [skype]: callto:companyskypename
 
