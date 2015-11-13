@@ -99,4 +99,3 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 
 <!--- Projects  -->
 
-[example_project]: projects/exampleproject/
