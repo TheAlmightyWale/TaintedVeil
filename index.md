@@ -86,13 +86,9 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 ** Facebook**  
 [facebook.com/TeamTitansTaintedVeil][facebook]
 
-**Web**  
-[companydomain.com][homepage]
 
 <!--- =====================================================================  -->
 <!--- Referenced links -->
-
-[homepage]: http://companydomain.com "Company Name"
 
 [contact]: mailto:TaintedVeil@gmail.com
 
