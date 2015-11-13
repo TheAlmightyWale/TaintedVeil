@@ -24,6 +24,8 @@ Coming Soon
 
 <br />
 <br />
+<br />
+<br />
 
 ## Team Description
 Team Titans is a team of 7 students that attend Media Design School in New Zealand. We created the game Tainted Veil as a part of a year long project, starting with 3 prototypes which we then developed into a Vertical Slice preview of the game, then to Alpha stage and finally onto Gold stage.
@@ -35,11 +37,11 @@ Explore the vast land of Tainted Veil, find the 4 mystical gems that will give y
 
 ### Key Features
 
-+Explore - Delve into a gorgeous world and navigate through four unique areas: Forestlands, Swamp, Caverns and Canyons
-+Master The Elements - Use the power of Air, Fire, Ice and Earth to traverse the vast environment and fight enemies
-+Fight Various Enemies - Engage in unique combat encounters with different kinds of enemies ranging from big brutes to crafty casters
-+Collect Items - You must find the gems that contain abilities for you yourself along with enough mysterious orbs cleanse the world
-+Platforming Puzzles - Jump on trickey rocks and other platforms to maneuver around the vast world
++ Explore - Delve into a gorgeous world and navigate through four unique areas: Forestlands, Swamp, Caverns and Canyons
++ Master The Elements - Use the power of Air, Fire, Ice and Earth to traverse the vast environment and fight enemies
++ Fight Various Enemies - Engage in unique combat encounters with different kinds of enemies ranging from big brutes to crafty casters
++ Collect Items - You must find the gems that contain abilities for you yourself along with enough mysterious orbs cleanse the world
++ Platforming Puzzles - Jump on trickey rocks and other platforms to maneuver around the vast world
 
 
 ## Videos
@@ -50,7 +52,7 @@ We have a trailer and this is it. [And this is what we called the link](https://
 
 ## Images
 
-download all screenshots & photos as ** [.zip (63 KB)](assets/images/images.zip "Images zip") **
+download all screenshots & photos as ** [.zip (8.8 MB)](assets/images/images.zip "Images zip") **
 
 [![image_01_name](assets/images/image_01.png)](assets/images/image_01.png)
 [![image_02_name](assets/images/image_02.png)](assets/images/image_02.png)
@@ -59,7 +61,7 @@ download all screenshots & photos as ** [.zip (63 KB)](assets/images/images.zip 
 
 ## Logo & Icon
 
-download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip") **
+download logo files as ** [.zip (1 MB)]( assets/images/logo.zip "Logo & Icon zip") **
 
 [![logo](assets/images/logo.png)](assets/images/logo.png "Logo")
 [![icon](assets/images/icon.png)](assets/images/icon.png "Icon")
