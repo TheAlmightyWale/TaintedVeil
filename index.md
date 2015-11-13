@@ -27,6 +27,9 @@ Coming Soon
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 ## Team Description
 Team Titans is a team of 7 students that attend Media Design School in New Zealand. We created the game Tainted Veil as a part of a year long project, starting with 3 prototypes which we then developed into a Vertical Slice preview of the game, then to Alpha stage and finally onto Gold stage.
