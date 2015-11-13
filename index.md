@@ -8,9 +8,6 @@ Team Titans
 **Founding date:**  
 March, 2015
 
-**Website:**  
-[companydomain.com][homepage]
-
 **Press / Business contact:**  
 [press-contact@company.com][contact]
 
