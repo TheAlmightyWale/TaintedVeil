@@ -16,6 +16,12 @@ March, 2015
 [facebook.com/TeamTitansTaintedVeil][facebook]
 [Devlopment Blog][Devlog]
 
+**Release Date:**
+21st November 2015
+
+**Download:**
+-Coming Soon
+
 ## Team Description
 Team Titans is a team of 7 students that attend Media Design School in New Zealand. We created the game Tainted Veil as a part of a year long project, starting with 3 prototypes which we then developed into a Vertical Slice preview of the game, then to Alpha stage and finally onto Gold stage.
 
@@ -25,7 +31,8 @@ Team Titans is a team of 7 students that attend Media Design School in New Zeala
 Explore the vast land of Tainted Veil, find the 4 mystical gems that will give you powers beyond your wildest dream! Use these powers to explore the world and take down enemies obstructing your path.
 
 
-
+<br />
+<br />
 
 ### Key Features
 
@@ -35,11 +42,6 @@ Explore the vast land of Tainted Veil, find the 4 mystical gems that will give y
 *Collect Items - You must find the gems that contain abilities for you yourself along with enough mysterious orbs cleanse the world
 *Platforming Puzzles - Jump on trickey rocks and other platforms to maneuver around the vast world
 
-### Release Date
-21st November 2015
-
-### Download
--Coming Soon
 
 ## Videos
 
