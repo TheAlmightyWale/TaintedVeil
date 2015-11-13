@@ -17,7 +17,8 @@ March, 2015
 
 ## Description
 
-Stuff about the studio. Talk about yourselves in the third person!
+“A mysterious poison has tainted the land, it’s spreading to your hometown, you must go and cleanse the area before it’s too late!”
+Explore the vast land of Tainted Veil, find the 4 mystical gems that will give you powers beyond your wildest dream! Use these powers to explore the world and take down enemies obstructing your path.
 
 ## History
 
