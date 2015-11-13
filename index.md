@@ -26,6 +26,7 @@ Explore the vast land of Tainted Veil, find the 4 mystical gems that will give y
 
 
 
+
 ### Key Features
 
 *Explore - Delve into a gorgeous world and navigate through four unique areas: Forestlands, Swamp, Caverns and Canyons
