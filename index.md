@@ -1,4 +1,4 @@
-# ![Company Name](assets/images/header.png)
+# ![TaintedVeil](assets/images/header.png)
 
 ## Factsheet
 
@@ -22,6 +22,9 @@ March, 2015
 **Download:**
 Coming Soon
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />

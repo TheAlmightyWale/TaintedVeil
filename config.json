@@ -1,15 +1,15 @@
 {
-  "title": "Press Kit - Company Name",
+  "title": "Press Kit - Tainted Veil",
   "largeLinks": [
     {
-      "name": "CompanyName.com",
-      "link": "&#47;"
+      "name": "TaintedVeil",
+      "link": "https://thealmightywale.github.io/TaintedVeil/#company-name-factsheet"
     }
   ],
   "projectLinks": [
     {
-      "name": "Example Project",
-      "link": "projects&#47;exampleproject&#47;"
+      "name": "",
+      "link": ""
     }
   ],
   "layout": {
