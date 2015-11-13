@@ -96,7 +96,6 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 
 [twitter]: https://twitter.com/tainted_veil
 [facebook]: https://www.facebook.com/TeamTitansTaintedVeil
-[skype]: callto:companyskypename
 
 <!--- Projects  -->
 
