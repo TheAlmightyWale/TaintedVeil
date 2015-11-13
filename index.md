@@ -9,7 +9,7 @@ Team Titans
 March, 2015
 
 **Press / Business contact:**  
-[TaintedVeil@gmail.com][contact]
+[TaintedVeil][contact]
 
 **Social:**  
 [twitter.com/TaintedVeil][twitter]  
