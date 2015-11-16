@@ -53,9 +53,9 @@ Explore the vast land of Tainted Veil, find the 4 mystical gems that will give y
 
 ## Videos
 
-We have a trailer and this is it. [And this is what we called the link](https://www.youtube.com/watch?v=WB0yAm6iXEw "Gunhouse Trailer on Youtube")  
+Check out Tainted Veils latest trailer. [Here](https://youtu.be/ijEaT-ZneUU "Tainted Veil Trailer on Youtube")  
 
-<iframe src="//www.youtube.com/embed/WB0yAm6iXEw" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/ijEaT-ZneUU" frameborder="0" allowfullscreen></iframe>
 
 ## Images
 
